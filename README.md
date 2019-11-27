@@ -1,1 +1,1 @@
-# bamazon
+"Bamazon" is a Node command line app that allows users to select and purchase items populated in a MySQL database. Item Quantity is updated in the database upon user input/choice.

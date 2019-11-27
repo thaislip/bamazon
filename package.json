@@ -1,0 +1,26 @@
+{
+  "name": "bamazon",
+  "version": "1.0.0",
+  "description": "\"Bamazon\" is a Node command line app that allows users to select and purchase items populated in a MySQL database. Item Quantity is updated in the database upon user input/choice.",
+  "main": "bamazonCustomer.js",
+  "dependencies": {
+    "clear": "^0.1.0",
+    "colors": "^1.4.0",
+    "inquirer": "^7.0.0",
+    "mysql": "^2.17.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/thaislip/bamazon.git"
+  },
+  "author": "taber haislip",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/thaislip/bamazon/issues"
+  },
+  "homepage": "https://github.com/thaislip/bamazon#readme"
+}
